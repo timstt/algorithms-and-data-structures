@@ -1,8 +1,0 @@
-D:\cod\Асд\lab6\lab6\bin\Debug\lab6.exe.config
-D:\cod\Асд\lab6\lab6\bin\Debug\lab6.exe
-D:\cod\Асд\lab6\lab6\bin\Debug\lab6.pdb
-D:\cod\Асд\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
-D:\cod\Асд\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
-D:\cod\Асд\lab6\lab6\obj\Debug\lab6.exe
-D:\cod\Асд\lab6\lab6\obj\Debug\lab6.pdb
-D:\cod\Асд\lab6\lab6\obj\Debug\lab6.exe.config
