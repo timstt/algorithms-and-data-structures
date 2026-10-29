@@ -1,0 +1,8 @@
+D:\cod\ООП\lab4asd\lab4asd\bin\Debug\lab4asd.exe.config
+D:\cod\ООП\lab4asd\lab4asd\bin\Debug\lab4asd.exe
+D:\cod\ООП\lab4asd\lab4asd\bin\Debug\lab4asd.pdb
+D:\cod\ООП\lab4asd\lab4asd\obj\Debug\lab4asd.csproj.AssemblyReference.cache
+D:\cod\ООП\lab4asd\lab4asd\obj\Debug\lab4asd.csproj.CoreCompileInputs.cache
+D:\cod\ООП\lab4asd\lab4asd\obj\Debug\lab4asd.exe
+D:\cod\ООП\lab4asd\lab4asd\obj\Debug\lab4asd.pdb
+D:\cod\ООП\lab4asd\lab4asd\obj\Debug\lab4asd.exe.config
