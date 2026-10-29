@@ -8,12 +8,13 @@ The labs cover searching, sorting, string matching, linear data structures and b
 
 | Lab | Topic | What it does | Folder |
 |-----|-------|--------------|--------|
-| 1 | Searching algorithms | Linear search, sentinel (barrier) search, binary search, golden-section search; running-time comparison on different data | [lab1](./lab1) |
-| 2 | Sorting | Quicksort and randomized quicksort, counting sort, radix sort, bucket sort | [lab2](./lab2) |
-| 3 | Substring search | Brute-force string matching and other pattern-search algorithms | [lab3](./lab3) |
-| 4 | Stacks, queues and linked lists | Stack, queue, deque, and linked-list implementations with O(1) operations; practical tasks on brackets, merging sorted queues and visible buildings | [lab4](./lab4) |
-| 5 | Binary search trees | Insertion, deletion, traversals, minimum, maximum and predecessor | [lab5](./lab5) |
-| 6 | Balanced trees (final lab) | Binary search tree, red-black tree (recoloring, rotations), AVL tree with interval-tree `max` attribute updated in O(1), splay tree; console tree visualizer | [lab6](./lab6) |
+| 1 | Searching algorithms | Linear search, sentinel search, binary search and golden-section search with running-time comparison | [lab1](./lab1) |
+| 2 | Sorting | Quicksort and randomized quicksort in descending order, counting sort and other non-comparison sorts | [lab2](./lab2) |
+| 3 | Substring search | Brute-force search and the Knuth-Morris-Pratt algorithm (prefix function) | [lab3](./lab3) |
+| 4 | Stacks, queues and linked lists | Bracket checker, merging two sorted queues, visible buildings, set of stacks | [lab4asd](./lab4asd) |
+| 5 | Binary search trees | Pre-order and post-order traversals, iterative in-order traversal, recursive minimum and maximum | [lab5](./lab5) |
+| 6 | Red-black tree | Red-black tree implementation | [lab6](./lab6) |
+| Final | Tree algorithms | BST, red-black tree, AVL tree with interval-tree `max` attribute, splay tree, console tree visualizer | [final](./final) |
 
 ## Tech stack
 
